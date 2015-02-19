@@ -12,6 +12,6 @@
   </Properties>
 
   <AppPrincipal>
-    <RemoteWebApplication ClientId="*" />
+    <RemoteWebApplication ClientId="53aa5e66-f907-458c-a465-f1c699327d3b" />
   </AppPrincipal>
 </App>
